@@ -1,0 +1,12 @@
+flask[async]
+numpy
+uvicorn[standard]
+fastapi
+robyn
+scalene
+trio
+trio-parallel
+gevent
+gipc
+jupyterlab
+cpython
